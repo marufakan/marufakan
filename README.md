@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img src="https://media3.giphy.com/media/26uf2BWmQp4GYSsy4/giphy.gif" width="400" >
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
 <h1> Code </h1>  
 <!-- 
 <img src="https://media1.giphy.com/media/YkXNjAkG7CfEVx3gcy/giphy.gif"  >
