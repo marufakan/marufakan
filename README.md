@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <img src="https://media3.giphy.com/media/26uf2BWmQp4GYSsy4/giphy.gif" width="400" >
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="400" >
+<h1> Code </h1>  
 <!-- 
 <img src="https://media1.giphy.com/media/YkXNjAkG7CfEVx3gcy/giphy.gif"  >
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="400" >
