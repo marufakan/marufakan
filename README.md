@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Maruf Akan</h1>
+<img src="https://media1.giphy.com/media/YkXNjAkG7CfEVx3gcy/giphy.gif" width="400"  >
 <h3 align="center">Software developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf04&label=Profile%20views&color=0e75b6&style=flat" alt="maruf04" /> </p>
