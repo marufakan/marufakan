@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="" >
+<img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="400" >
 <!--
 **maruf04/maruf04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
