@@ -6,10 +6,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maruf-akan-177a89170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maruf-akan-177a89170" height="30" width="40" /></a>
-<a href="https://instagram.com/@code_deer_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@code_deer_" height="30" width="40" /></a>
+<a href="https://www.instagram.com/code_deer_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@code_deer_" height="30" width="40" /></a>
 <a href="https://medium.com/@marufakan01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@marufakan01" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucfd69yhos_8jkfxb9qgzfda" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucfd69yhos_8jkfxb9qgzfda" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/h185541045" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="h185541045" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCFD69YhoS_8jKfxb9QgzFDA" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucfd69yhos_8jkfxb9qgzfda" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/Maruf_Akan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="h185541045" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/185541045" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="185541045" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/14790392" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14790392" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,6 +23,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruf04&" alt="maruf04" /></p>
 
+
+
+
+
+------------
 
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf04&label=Profile%20views&color=0e75b6&style=flat" alt="maruf04" /> </p>
