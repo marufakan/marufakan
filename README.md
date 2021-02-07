@@ -2,7 +2,6 @@
 
 <h3 align="center">Software developer-Mobile developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf04&label=Profile%20views&color=0e75b6&style=flat" alt="maruf04" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,6 +23,7 @@
 
 
 <!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maruf04&label=Profile%20views&color=0e75b6&style=flat" alt="maruf04" /> </p>
 <img src="https://media1.giphy.com/media/YkXNjAkG7CfEVx3gcy/giphy.gif"  >
 <img src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" width="400" >
 -->
