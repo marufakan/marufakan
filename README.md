@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maruf Akan</h1>
 
-<h3 align="center">Software developer-Mobile developer</h3>
+<h3 align="center">Software Developer-Student</h3>
 
 
 <h3 align="left">Connect with me:</h3>
