@@ -7,7 +7,6 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf04&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="maruf04" align="left" /></p>
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=maruf04&amp;show_icons=true&amp;locale=en" alt="maruf04" align="center" /></p>
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf04&amp;" alt="maruf04" align="center" /></p>
-
 ------------
 
 <!-- 
