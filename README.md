@@ -5,8 +5,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"><a href="https://developer.android.com" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> </a> <a href="https://flutter.dev" target="_blank" rel="noopener"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a> <a href="https://www.java.com" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /> </a> <a href="https://laravel.com/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" /> </a> <a href="https://postman.com" target="_blank" rel="noopener"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> </a></p>
 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf04&show_icons=true&locale=en&layout=compact" alt="maruf04" /></p>
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/7f42d736-c511-418e-b373-3881fd503021.png" /></a>
+
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf04&show_icons=true&locale=en" alt="maruf04" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruf04&" alt="maruf04" /></p>
+ <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maruf04&" alt="maruf04" /></p> -->
