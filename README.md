@@ -8,7 +8,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf04&show_icons=true&locale=en&layout=compact" alt="maruf04" /></p>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/7f42d736-c511-418e-b373-3881fd503021.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/3e254176-b02f-44d8-9466-b95395291167.png" width="550" /></a>
 
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maruf04&show_icons=true&locale=en" alt="maruf04" /></p>
