@@ -26,12 +26,12 @@
 <h3 align="left">Wakatime(<span>since July 2021</span>):</h3>
 
 <p align="center">
-  <img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/3e254176-b02f-44d8-9466-b95395291167.png" width="450" />
-  <img width="450" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/52307ec9-5d2e-4aaa-96a0-ec190a83df74.png" />
+  <img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/3e254176-b02f-44d8-9466-b95395291167.png" width="400" />
+  <img width="400" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/52307ec9-5d2e-4aaa-96a0-ec190a83df74.png" />
 </p>
 <p align="center">
-    <img width="450" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/71afe037-959a-4f84-aecf-77822c5c0c72.png" />
-    <img width="450" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/696d6fe1-7655-435f-81e9-00b8b761267c.png" />
+    <img width="400" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/71afe037-959a-4f84-aecf-77822c5c0c72.png" />
+    <img width="400" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/696d6fe1-7655-435f-81e9-00b8b761267c.png" />
 </p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maruf04&show_icons=true&locale=en&layout=compact" alt="maruf04" /></p>
