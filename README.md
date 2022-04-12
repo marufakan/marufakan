@@ -8,7 +8,7 @@
 
 <!-- - 🔭 I’m currently working on **market_projesi** -->
 
-- 🌱 I’m currently learning **Django, Javascript, Node.js, React**
+- 🌱 I’m currently learning **Java, React**
 
 - 📫 How to reach me **marufakan01@gmail.com**
 
