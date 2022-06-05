@@ -16,7 +16,7 @@
 - 📄 Know about my experiences [marufakan.github.io](https://marufakan.github.io/Developer/)
 
 <p align="left">
-  <a href="https:https://www.linkedin.com/in/marufakan/" target="blank">
+  <a href="https://www.linkedin.com/in/marufakan/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maruf-akan-177a89170" width="40" height="30" align="center" />
   </a>
  
