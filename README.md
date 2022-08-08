@@ -84,7 +84,7 @@
 <!-- Wakatime -->
 <h3 align="left">Wakatime(<span>since July 2021</span>):</h3>
 <p align="center">
-  <img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/99b4c0f3-0984-4e61-8d99-5af80138d2b3.png" width="400" />
+  <img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/04d84d59-c43d-4092-8198-9db22e559eb7.png" width="400" />
   <img width="400" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/639e4d71-0aea-47ef-9c04-1127ff0ac234.png" />
 </p>
 
