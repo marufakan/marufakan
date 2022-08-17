@@ -81,6 +81,7 @@
   </a>
 </p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufakan&show_icons=true&locale=en&layout=compact" alt="marufakan" /></p>
 <!-- Wakatime -->
 <h3 align="left">Wakatime(<span>since July 2021</span>):</h3>
 <p align="center">
