@@ -89,7 +89,7 @@
   <img width="400" src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/639e4d71-0aea-47ef-9c04-1127ff0ac234.png" />
 </p>
 
-<!-- ![snake svg](https://github.com/marufakan/marufakan/blob/output/github-contribution-grid-snake.svg) -->
+![snake svg](https://github.com/marufakan/marufakan/blob/output/github-contribution-grid-snake.svg)
 <!--
 <p align="center">
     <img width="400" src="" />
