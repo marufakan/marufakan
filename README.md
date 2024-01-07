@@ -7,7 +7,7 @@
 
 <!-- - 🔭 I’m currently working on **market_projesi** -->
 
-- 🌱 I’m currently learning **Java, Spring, React**
+- 🌱 I’m currently learning **Java, Spring boot**
 
 - 📫 How to reach me **marufakan02@gmail.com**
 
@@ -81,8 +81,10 @@
   </a>
 </p>
 
+<!--
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marufakan&show_icons=true&locale=en&layout=compact" alt="marufakan" /></p>
 <!-- Wakatime -->
+<!--
 <h3 align="left">Wakatime(<span>since July 2021</span>):</h3>
 <p align="center">
   <img src="https://wakatime.com/share/@24d66658-6119-4ac4-8f6a-4476ebfba1ff/04d84d59-c43d-4092-8198-9db22e559eb7.png" width="400" />
@@ -90,6 +92,7 @@
 </p>
 
 ![snake svg](https://github.com/marufakan/marufakan/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 <p align="center">
     <img width="400" src="" />
