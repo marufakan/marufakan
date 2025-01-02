@@ -78,8 +78,11 @@
 <h3 align="left">📄 Latest Medium Article:</h3>
 <p align="left">
 <!-- BLOG-POST-LIST:START -->
-- [**Java’yı Kurtarmak: Optional Metotları**](https://medium.com/@marufakan/javay%C4%B1-kurtarmak-optional-metotlar%C4%B1-b5cba57a1229?source=rss-4770fa6b7e11------2)
-  > ...
+<p align='left'>
+  <strong><a href="https://medium.com/@marufakan/javay%C4%B1-kurtarmak-optional-metotlar%C4%B1-b5cba57a1229?source=rss-4770fa6b7e11------2" target="_blank">Java’yı Kurtarmak: Optional Metotları</a></strong>
+  <br />
+  <em>...</em>
+</p>
 <!-- BLOG-POST-LIST:END -->
 </p>
 
