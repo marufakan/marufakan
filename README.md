@@ -77,8 +77,10 @@
 
 <h3 align="left">📄 Latest Medium Article:</h3>
 <p align="left">
-  <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [**${TITLE}**](${LINK})
+  > ${DESCRIPTION}...
+<!-- BLOG-POST-LIST:END -->
 </p>
 
 ---
