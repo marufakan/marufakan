@@ -34,7 +34,7 @@ jobs:
           TITLE="${{ steps.fetch-medium.outputs.title }}"
           LINK="${{ steps.fetch-medium.outputs.link }}"
           DESCRIPTION="${{ steps.fetch-medium.outputs.description }}"
-          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n- [**${TITLE}**](${LINK})\n  > ${DESCRIPTION}...\n<!-- BLOG-POST-LIST:END -->' README.md
+          sed -i "/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n- [**${TITLE}**](${LINK})\n  > ${DESCRIPTION}...\n<!-- BLOG-POST-LIST:END -->" README.md
 
       - name: Commit changes
         run: |
