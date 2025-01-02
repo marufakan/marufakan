@@ -79,9 +79,7 @@
 <p align="left">
 <!-- BLOG-POST-LIST:START -->
 <p align='left'>
-  <img src='' alt='Java’yı Kurtarmak: Optional Metotları' width='400'/>
-  <br />
-  <strong><a href='https://medium.com/@marufakan/javay%C4%B1-kurtarmak-optional-metotlar%C4%B1-b5cba57a1229?source=rss-4770fa6b7e11------2' target='_blank'>Java’yı Kurtarmak: Optional Metotları</a></strong>
+  <strong><a href="https://medium.com/@marufakan/javay%C4%B1-kurtarmak-optional-metotlar%C4%B1-b5cba57a1229?source=rss-4770fa6b7e11------2" target="_blank">Java’yı Kurtarmak: Optional Metotları</a></strong>
   <br />
   <em>...</em>
 </p>
