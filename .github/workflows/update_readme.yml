@@ -25,17 +25,20 @@ jobs:
           TITLE=$(xmllint --xpath "string(//item[1]/title)" medium_feed.xml)
           LINK=$(xmllint --xpath "string(//item[1]/link)" medium_feed.xml)
           DESCRIPTION=$(xmllint --xpath "string(//item[1]/description)" medium_feed.xml | sed 's/<[^>]*>//g' | head -c 200)
+          IMAGE_URL=$(curl -s $LINK | grep -oP '(?<=<img src=").*?(?=")' | head -n 1)
           echo "::set-output name=title::$TITLE"
           echo "::set-output name=link::$LINK"
           echo "::set-output name=description::$DESCRIPTION"
+          echo "::set-output name=image_url::$IMAGE_URL"
 
       - name: Update README
         run: |
           TITLE="${{ steps.fetch-medium.outputs.title }}"
           LINK="${{ steps.fetch-medium.outputs.link }}"
           DESCRIPTION="${{ steps.fetch-medium.outputs.description }}"
+          IMAGE_URL="${{ steps.fetch-medium.outputs.image_url }}"
           echo "Updating README.md with the latest Medium post..."
-          sed -i "/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n<p align='left'>\n  <strong><a href=\"${LINK}\" target=\"_blank\">${TITLE}</a></strong>\n  <br />\n  <em>${DESCRIPTION}...</em>\n</p>\n<!-- BLOG-POST-LIST:END -->" README.md
+          sed -i "/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n<p align='left'>\n  <img src='${IMAGE_URL}' alt='${TITLE}' width='400'/>\n  <br />\n  <strong><a href='${LINK}' target='_blank'>${TITLE}</a></strong>\n  <br />\n  <em>${DESCRIPTION}...</em>\n</p>\n<!-- BLOG-POST-LIST:END -->" README.md
 
       - name: Commit changes
         run: |
