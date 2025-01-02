@@ -1,9 +1,9 @@
-name: Update README with Medium Posts
+name: Update README with Latest Medium Post
 
 on:
   schedule:
     - cron: '0 * * * *' # Her saat başı çalıştır
-  workflow_dispatch: # Manuel olarak çalıştırma seçeneği
+  workflow_dispatch: # Manuel çalıştırma seçeneği
 
 jobs:
   update-readme:
@@ -12,15 +12,29 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v2
 
-      - name: Fetch latest Medium posts
-        uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: "https://medium.com/feed/@marufakan" # Medium RSS Feed URL'niz
+      - name: Fetch latest Medium post
+        id: fetch-medium
+        run: |
+          FEED_URL="https://medium.com/feed/@marufakan"
+          curl -s $FEED_URL | xmllint --format - > medium_feed.xml
+          TITLE=$(xmllint --xpath "string(//item[1]/title)" medium_feed.xml)
+          LINK=$(xmllint --xpath "string(//item[1]/link)" medium_feed.xml)
+          DESCRIPTION=$(xmllint --xpath "string(//item[1]/description)" medium_feed.xml | sed 's/<[^>]*>//g' | head -c 200)
+          echo "::set-output name=title::$TITLE"
+          echo "::set-output name=link::$LINK"
+          echo "::set-output name=description::$DESCRIPTION"
+
+      - name: Update README
+        run: |
+          TITLE="${{ steps.fetch-medium.outputs.title }}"
+          LINK="${{ steps.fetch-medium.outputs.link }}"
+          DESCRIPTION="${{ steps.fetch-medium.outputs.description }}"
+          sed -i '/<!-- BLOG-POST-LIST:START -->/,/<!-- BLOG-POST-LIST:END -->/c\<!-- BLOG-POST-LIST:START -->\n- [**${TITLE}**](${LINK})\n  > ${DESCRIPTION}...\n<!-- BLOG-POST-LIST:END -->' README.md
 
       - name: Commit changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .
-          git commit -m "Updated README with latest Medium article" || echo "No changes detected"
+          git add README.md
+          git commit -m "Update latest Medium article" || echo "No changes detected"
           git push
