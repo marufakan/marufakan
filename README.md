@@ -78,11 +78,7 @@
 <h3 align="left">📄 Latest Medium Article:</h3>
 <p align="left">
   <!-- BLOG-POST-LIST:START -->
-- [Java’yı Kurtarmak: Optional Metotları](https://medium.com/@marufakan/javay%C4%B1-kurtarmak-optional-metotlar%C4%B1-b5cba57a1229?source=rss-4770fa6b7e11------2)
-- [Büyük Başarılar Küçük Adımlardan Doğar: Atomik Alışkanlıklar Üzerine Notlar](https://medium.com/@marufakan/b%C3%BCy%C3%BCk-ba%C5%9Far%C4%B1lar-k%C3%BC%C3%A7%C3%BCk-ad%C4%B1mlardan-do%C4%9Far-atomik-al%C4%B1%C5%9Fkanl%C4%B1klar-%C3%BCzerine-notlar-75f5d7d1a012?source=rss-4770fa6b7e11------2)
-- [Java 8 Yenilikleri: Optional Sınıfı](https://medium.com/@marufakan/java-8-yenilikleri-optional-s%C4%B1n%C4%B1f%C4%B1-57a092fc5827?source=rss-4770fa6b7e11------2)
-- [Yeni Bir Blogda Javaya Bakmak](https://medium.com/@marufakan/yeni-bir-blogda-javaya-bakmak-a0375259a410?source=rss-4770fa6b7e11------2)
-<!-- BLOG-POST-LIST:END -->
+  <!-- BLOG-POST-LIST:END -->
 </p>
 
 ---
